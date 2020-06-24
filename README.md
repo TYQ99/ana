@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 欢迎来到乔哥收集的经典语录
 
 You can use the [editor on GitHub](https://github.com/TYQ99/nan/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
